@@ -1,0 +1,24 @@
+{
+  "name": "vscodedemo",
+  "version": "0.0.1",
+  "description": "Demo of Code by Visual Studio",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/owendismuke/vscodefun.git"
+  },
+  "keywords": [
+    "visual",
+    "studio",
+    "code"
+  ],
+  "author": "Owen Dismuke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/owendismuke/vscodefun/issues"
+  },
+  "homepage": "https://github.com/owendismuke/vscodefun#readme"
+}
