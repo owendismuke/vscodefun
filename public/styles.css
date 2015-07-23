@@ -1,0 +1,13 @@
+body{
+  margin : 0px;
+  font-family: arial, sans-serif;
+  }
+
+.generic-list {
+  background: lightgray;
+  border-radius: 4px;
+}
+
+.classname {
+  margin: 10px;
+}
